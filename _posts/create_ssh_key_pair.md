@@ -1,3 +1,9 @@
+---
+layout: post
+title: Creating SSH Key-pair
+---
+
+
 # How to enable SSH authentication between Colab and GitHub for private repositories.
 This document will lay out the steps you need to take to create an SSH key-pair, followed by the steps necessary to establish the SSH authentication between Colab and GitHub for private repositories.
 
