@@ -4,7 +4,7 @@ title: Creating SSH Key-pair
 permalink: /:title:output_ext
 ---
 
-<h1>{{ page.title }}</h1>
+<!---<h1>{{ page.title }}</h1>--->
 
 ## How to enable SSH authentication between Colab and GitHub for private repositories.
 This document will lay out the steps you need to take to create an SSH key-pair, 
